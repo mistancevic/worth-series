@@ -1,0 +1,14 @@
+{
+  "name": "worth-series",
+  "private": true,
+  "description": "The Worth series of short books by Milan Stancevic: sources, build and check tools, and every released PDF.",
+  "scripts": {
+    "check": "node tools/check.cjs",
+    "build": "node tools/build.cjs"
+  },
+  "devDependencies": {
+    "@fontsource/anton": "5.3.0",
+    "@fontsource/nunito": "5.3.0",
+    "playwright": "1.63.0"
+  }
+}

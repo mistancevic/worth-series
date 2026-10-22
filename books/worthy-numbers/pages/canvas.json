@@ -1,0 +1,148 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Main.dc.html": {
+      "h": 794,
+      "title": "1 · Cover",
+      "w": 559,
+      "x": 0,
+      "y": 0
+    },
+    "P02-label.dc.html": {
+      "h": 794,
+      "title": "3 · The label",
+      "w": 559,
+      "x": 1278,
+      "y": 0
+    },
+    "P03-nutriscore.dc.html": {
+      "h": 794,
+      "title": "4 · Nutri-Score",
+      "w": 559,
+      "x": 1917,
+      "y": 0
+    },
+    "P04-claims.dc.html": {
+      "h": 794,
+      "title": "5 · Protein claims",
+      "w": 559,
+      "x": 2556,
+      "y": 0
+    },
+    "P05-quality.dc.html": {
+      "h": 794,
+      "title": "6 · Protein quality",
+      "w": 559,
+      "x": 0,
+      "y": 914
+    },
+    "P06-gigl.dc.html": {
+      "h": 794,
+      "title": "7 · GI and GL",
+      "w": 559,
+      "x": 639,
+      "y": 914
+    },
+    "P07-pd.dc.html": {
+      "h": 794,
+      "title": "8 · PD",
+      "w": 559,
+      "x": 1278,
+      "y": 914
+    },
+    "P08-bowl.dc.html": {
+      "h": 794,
+      "title": "9 · One bowl",
+      "w": 559,
+      "x": 1917,
+      "y": 914
+    },
+    "P09-milan.dc.html": {
+      "h": 794,
+      "title": "10 · About Milan",
+      "w": 559,
+      "x": 2556,
+      "y": 914
+    },
+    "P10-back.dc.html": {
+      "h": 794,
+      "title": "11 · Back cover",
+      "w": 559,
+      "x": 0,
+      "y": 1828
+    },
+    "CoverA-bowl.dc.html": {
+      "h": 794,
+      "title": "Cover A · a bowl in dots",
+      "w": 559,
+      "x": 0,
+      "y": 2902
+    },
+    "CoverB-label.dc.html": {
+      "h": 794,
+      "title": "Cover B · the label",
+      "w": 559,
+      "x": 639,
+      "y": 2902
+    },
+    "CoverC-pd.dc.html": {
+      "h": 794,
+      "title": "Cover C · PD in dots",
+      "w": 559,
+      "x": 1278,
+      "y": 2902
+    },
+    "P01b-contents.dc.html": {
+      "h": 794,
+      "title": "2 · Contents",
+      "w": 559,
+      "x": 639,
+      "y": 0
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-10-20T10:20:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {
+    "booktitle": {
+      "kind": "title1",
+      "maxW": 3115,
+      "text": "Worthy Numbers · eleven pages, A5",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    },
+    "covers": {
+      "kind": "title1",
+      "maxW": 3115,
+      "text": "Cover options, in the Worth series look",
+      "w": 240,
+      "x": 0,
+      "y": 2782
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "P01b-contents.dc.html",
+    "P02-label.dc.html",
+    "P03-nutriscore.dc.html",
+    "P04-claims.dc.html",
+    "P05-quality.dc.html",
+    "P06-gigl.dc.html",
+    "P07-pd.dc.html",
+    "P08-bowl.dc.html",
+    "P09-milan.dc.html",
+    "P10-back.dc.html",
+    "CoverA-bowl.dc.html",
+    "CoverB-label.dc.html",
+    "CoverC-pd.dc.html"
+  ],
+  "pages": [],
+  "title": "Worthy Numbers, the book"
+}

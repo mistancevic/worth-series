@@ -1,0 +1,15 @@
+{
+  "title": "Worthy Numbers",
+  "subtitle": "The numbers about your food, and which ones help you decide.",
+  "author": "Milan Stancevic",
+  "slug": "worthy-numbers",
+  "version": "1.0",
+  "released": "2026-10-22",
+  "size": { "name": "A5", "width": 559, "height": 794 },
+  "pages": ["Main", "P01b-contents", "P02-label", "P03-nutriscore", "P04-claims", "P05-quality", "P06-gigl", "P07-pd", "P08-bowl", "P09-milan", "P10-back"],
+  "images": { "0f9fc78f2bb7b7ceca46710d9063c461": "assets/milan.webp" },
+  "web": "https://chefmealan.com/worthy-numbers",
+  "pdf": "https://chefmealan.com/books/worthy-numbers.pdf",
+  "editing": "https://claude.ai/artifact/PqiccfFtiWPsdo8iQTWFtB",
+  "reader": "https://claude.ai/artifact/TayucxSpjYb554rzkJidG6"
+}
